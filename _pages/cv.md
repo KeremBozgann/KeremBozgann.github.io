@@ -17,7 +17,7 @@ Education
 
 Research interest
 ======
-Research interest in decision making, bandits, robust learning, multi objective optimization and Quantum bandits.
+Research interest in decision making, bandits, robust learning, multi objective optimization and quantum bandits.
 
 Research experience
 ======
@@ -26,8 +26,8 @@ Research experience
   * Research on sample efficient robust algorithms for multi-objective bandits with contaminated feedback. 
   * Advisor: Cem Tekin
 
-* Fall 2015: Researcher, TUBITAK (Scientific and technological research council of turkey) 1003 Primary Subjects R&D Funding Program
-  * Developement of computationally efficient kernel based learning algorithms
+* Fall 2015: Researcher, TUBITAK (Scientific and Technological Research Council of Turkey) 1003 Primary Subjects R&D Funding Program: Improving Quality and Efficiency of Clinical Processes by Learning
+  * Developement of computationally efficient kernel based learning algorithms for medical applications
   
 Skills
 ======
