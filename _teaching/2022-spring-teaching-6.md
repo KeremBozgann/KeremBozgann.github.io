@@ -11,5 +11,6 @@ location: "Ankara, Turkey"
 Teaching Assistant, Basics of Signals and Systems
 
 • Teaching activities
+
 • Preparing and assigning course material
 
