@@ -11,5 +11,6 @@ location: "Ankara, Turkey"
 Teaching Assistant, Introduction to Digital Circuit Design
 
 • Conducted lab sessions
+
 • Supervised term projects
 
