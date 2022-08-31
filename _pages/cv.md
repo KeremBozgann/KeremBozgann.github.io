@@ -11,32 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in, Electrical and Electronics Engineering,  Middle East Technical University 2018
+* M.S. in Electrical and Electronics Engineering, Bilkent University, 2022
+* Ph.D in Computer Science, Virginia Tech, 2027 (expected)
 
-Work experience
+Research interest
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Research interest in decision making, bandits, robust learning, multi objective optimization and Quantum bandits.
 
-* Fall 2015: Research Assistant
+Research experience
+======
+* 2019-2022: Member of Cognitive Systems, Bandits and Optimization
+  * Development of sample efficient, discretization based algorithms for multi-objective Gaussian process bandits. 
+  * Research on sample efficient robust algorithms for multi-objective bandits with contaminated feedback. 
+  * Advisor: Cem Tekin
+
+* Fall 2015: Researcher, TUBITAK 1003 Primary Subjects R&D Funding Program
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Programming languages:
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -46,7 +49,7 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -54,6 +57,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
