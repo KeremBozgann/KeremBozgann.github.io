@@ -10,5 +10,5 @@ location: "Ankara, Turkey"
 
 Teaching Assistant, Circuit Theory
 
-Conducted laboratory sessions for undergraduate students
+• Conducted laboratory sessions for undergraduate students
 
