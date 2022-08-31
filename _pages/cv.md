@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in, Electrical and Electronics Engineering,  Middle East Technical University 2018
 * M.S. in Electrical and Electronics Engineering, Bilkent University, 2022
-* Ph.D in Computer Science, Virginia Tech, 2027 (expected)
+* Ph.D in Computer Science, Virginia Tech, 2022 - now
 
 Research interest
 ======
