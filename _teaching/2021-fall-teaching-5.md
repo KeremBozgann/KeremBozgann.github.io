@@ -1,14 +1,14 @@
 ---
-title: "Teaching Asistant Fall 2019"
+title: "Teaching Asistant Fall 2021"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-spring-teaching-1
+permalink: /teaching/2021-fall-teaching-5
 venue: "Bilkent University, Electrical and Electronics Engineering"
-date: 2019-09-01
+date: 2021-09-01
 location: "Ankara, Turkey"
 ---
 
-Teaching Assistant, Circuit Theory
+Teaching Assistant,  Introduction to Digital Circuit Design
 
-• Conducted laboratory sessions for undergraduate students
+• Conducted lab sessions
 
