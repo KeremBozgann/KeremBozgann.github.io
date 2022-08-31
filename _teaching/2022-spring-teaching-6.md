@@ -1,14 +1,15 @@
 ---
-title: "Teaching Asistant Fall 2019"
+title: "Teaching Asistant Spring 2022"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-spring-teaching-1
 venue: "Bilkent University, Electrical and Electronics Engineering"
-date: 2019-09-01
+date: 2022-02-01
 location: "Ankara, Turkey"
 ---
 
-Teaching Assistant, Circuit Theory
+Teaching Assistant, Basics of Signals and Systems
 
-• Conducted laboratory sessions for undergraduate students
+• Teaching activities
+• Preparing and assigning course material
 
