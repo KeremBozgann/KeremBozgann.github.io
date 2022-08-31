@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "testing"
 collection: teaching
 type: "testing"
 permalink: /teaching/2019-spring-teaching-1
 venue: "testing, testing"
-date: 2014-01-01
+date: 2019-01-01
 location: "test, test"
 ---
 
