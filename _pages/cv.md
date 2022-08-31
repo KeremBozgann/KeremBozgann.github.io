@@ -26,18 +26,15 @@ Research experience
   * Research on sample efficient robust algorithms for multi-objective bandits with contaminated feedback. 
   * Advisor: Cem Tekin
 
-* Fall 2015: Researcher, TUBITAK 1003 Primary Subjects R&D Funding Program
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2015: Researcher, TUBITAK (Scientific and technological research council of turkey) 1003 Primary Subjects R&D Funding Program
+  * Developement of computationally efficient kernel based learning algorithms
   
 Skills
 ======
 * Programming languages:
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Python
+  * Java
+  * Matlab
 
 <!-- Publications
 ======
