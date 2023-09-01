@@ -17,7 +17,7 @@ Education
 
 Research interest
 ======
-Research interest in decision making, bandits, robust learning, multi objective optimization and quantum bandits.
+My research interests include decision-making, online learning, Bayesian optimization and their application to wireless networks and quantitative finance.
 
 Research experience
 ======
