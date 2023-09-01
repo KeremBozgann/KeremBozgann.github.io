@@ -21,6 +21,8 @@ My research interests include decision-making, online learning, Bayesian optimiz
 
 Research experience
 ======
+* 2022-present: Member of Synergistic Networking And Intelligence Lab (SNAIL), work on efficient resource allocation strategies on wireless networks. Virginia Tech 
+ 
 * 2019-2022: Member of Cognitive Systems, Bandits and Optimization Lab
   * Development of sample efficient, adaptive algorithms for multi-objective Gaussian process bandit problem. 
   * Research on sample efficient robust algorithms for multi-objective bandits with contaminated feedback. 
@@ -36,6 +38,7 @@ Skills
   * Python
   * Java
   * Matlab
+  * SQL
 
 <!-- Publications
 ======
